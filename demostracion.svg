@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000px" height="2000px" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2000 2000" preserveAspectRatio="xMidYMid meet"  xmlns:drawsvg="http://www.drawsvg.org"><defs id="svgEditorDefs"><pattern id="svgEditorGrid0" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+		<defs>
+			<marker id="svgEditorGridMkCircle" viewBox="0 0 2 2" refX="1" refY="1" markerUnits="strokeWidth" markerWidth="2" markerHeight="2" orient="0deg">
+			   <circle cx="1" cy="1" r="1" style="fill:black;stroke:none;"/>
+			</marker>
+			<marker id="svgEditorGridMkSquare" viewBox="0 0 2 2" refX="1" refY="1" markerUnits="strokeWidth" markerWidth="2" markerHeight="2" orient="0deg">
+			   <rect x="0" y="0" width="2" height="2" style="fill:black;stroke:none;"/>
+			</marker>
+		</defs>
+		<g marker-start="url(#svgEditorGridMkCircle)" marker-end="url(#svgEditorGridMkCircle)" marker-mid="url(#svgEditorGridMkCircle)" stroke="none">
+			<path d="M0,0M10,0M10,10M0,10" stroke-width="0.4"/>
+			<path d="M5,0M0,5M5,5M10,5M5,10" stroke-width="0.2"/>
+			<g stroke-width="0.125">
+				<path d="M1,0M2,0M3,0M4,0M6,0M7,0M8,0M9,0"/>
+				<path d="M0,1M1,1M2,1M3,1M4,1M5,1M6,1M7,1M8,1M9,1M10,1"/>
+				<path d="M0,2M1,2M2,2M3,2M4,2M5,2M6,2M7,2M8,2M9,2M10,2"/>
+				<path d="M0,3M1,3M2,3M3,3M4,3M5,3M6,3M7,3M8,3M9,3M10,3"/>
+				<path d="M0,4M1,4M2,4M3,4M4,4M5,4M6,4M7,4M8,4M9,4M10,4"/>
+				<path d="M1,5M2,5M3,5M4,5M6,5M7,5M8,5M9,5"/>
+				<path d="M0,6M1,6M2,6M3,6M4,6M5,6M6,6M7,6M8,6M9,6M10,6"/>
+				<path d="M0,7M1,7M2,7M3,7M4,7M5,7M6,7M7,7M8,7M9,7M10,7"/>
+				<path d="M0,8M1,8M2,8M3,8M4,8M5,8M6,8M7,8M8,8M9,8M10,8"/>
+				<path d="M0,9M1,9M2,9M3,9M4,9M5,9M6,9M7,9M8,9M9,9M10,9"/>
+				<path d="M1,10M2,10M3,10M4,10M6,10M7,10M8,10M9,10"/>
+			</g>
+		</g>
+    </pattern><pattern id="svgEditorGrid1" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+		<g marker-start="url(#svgEditorGridMkSquare)" marker-end="url(#svgEditorGridMkSquare)" marker-mid="url(#svgEditorGridMkSquare)" stroke="none">
+			<path d="M0,0M10,0M10,10M0,10" stroke-width="0.4"/>
+			<path d="M5,0M0,5M5,5M10,5M5,10" stroke-width="0.2"/>
+			<g stroke-width="0.125">
+				<path d="M1,0M2,0M3,0M4,0M6,0M7,0M8,0M9,0"/>
+				<path d="M0,1M1,1M2,1M3,1M4,1M5,1M6,1M7,1M8,1M9,1M10,1"/>
+				<path d="M0,2M1,2M2,2M3,2M4,2M5,2M6,2M7,2M8,2M9,2M10,2"/>
+				<path d="M0,3M1,3M2,3M3,3M4,3M5,3M6,3M7,3M8,3M9,3M10,3"/>
+				<path d="M0,4M1,4M2,4M3,4M4,4M5,4M6,4M7,4M8,4M9,4M10,4"/>
+				<path d="M1,5M2,5M3,5M4,5M6,5M7,5M8,5M9,5"/>
+				<path d="M0,6M1,6M2,6M3,6M4,6M5,6M6,6M7,6M8,6M9,6M10,6"/>
+				<path d="M0,7M1,7M2,7M3,7M4,7M5,7M6,7M7,7M8,7M9,7M10,7"/>
+				<path d="M0,8M1,8M2,8M3,8M4,8M5,8M6,8M7,8M8,8M9,8M10,8"/>
+				<path d="M0,9M1,9M2,9M3,9M4,9M5,9M6,9M7,9M8,9M9,9M10,9"/>
+				<path d="M1,10M2,10M3,10M4,10M6,10M7,10M8,10M9,10"/>
+			</g>
+		</g>
+    </pattern><pattern id="svgEditorGrid2" patternUnits="userSpaceOnUse" x="10" y="10" width="100" height="100" viewBox="0 0 10 10">
+	 
+	 <g style="fill:none;stroke:black;stroke-width:0.4" transform="scale(0.1)">
+	     troisieme niveau 10 1 
+	     <g style="stroke-dasharray:2 8;">
+		<path d="M-1 0 h102 M-1 10 h102 M-1 20 h102 M-1 30 h102 M-1 40 h102 M-1 50 h102 M-1 60 h102 M-1 70 h102 M-1 80 h102 M-1 90 h102 M-1 100 h102"/>
+		<path d="M0-1 v102 M10-1 v102 M20-1 v102 M30-1 v102 M40-1 v102 M50 -1 v102 M60-1 v102 M70-1 v102 M80-1 v102 M90-1 v102 M100-1 v102"/>
+	     </g>
+	      deuxieme niveau 50/3 
+	     <g style="stroke-dasharray:6 44;">
+		<path d="M-3 0 h106 M-3 50 h106 M-3 100 h106"/>
+		<path d="M0-3 v106 M50-3 v106 M100-3 v106"/>
+	     </g>
+	      premier niveau 100/5 
+	      <g style="stroke-dasharray:10 90;">
+		<path d="M-5 0 h110 M-5 100 h110"/>
+		<path d="M0-5 v119 M100-5 v110"/>
+	     </g>
+	 </g>
+	</pattern></defs><rect id="svgEditorBackground" x="0" y="0" width="2000" height="2000" style="stroke: none;" fill="url(&quot;#svgEditorGrid2&quot;)"/><g id="e1_video_group" drawsvg:ctype="html-video" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e2_video_rect" x="148" y="342" width="509" height="259" drawsvg:ctype="html-video"/><foreignObject id="e3_video_foreign" drawsvg:ctype="html-video" x="152" y="346" width="501" height="251"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<video controls="true" style="margin:0px;padding:0px;" width="100%">
+	<source src="http://www.draw-svg.appspot.com/svgedit/samples/video/SampleVideo_1080x720_1mb.mp4" type="video/mp4" />
+	</video>
+</body></foreignObject></g><g id="e17_audio_group" drawsvg:ctype="html-audio" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e18_audio_rect" x="712" y="73" width="308" height="36" drawsvg:ctype="html-audio"/><foreignObject id="e19_audio_foreign" drawsvg:ctype="html-audio" x="716" y="77" width="300" height="28"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<audio width="100%" controls="true" style="margin:0px;padding:0px;">
+		<source src="http://www.draw-svg.appspot.com/svgedit/samples/audio/bubbles.mp3" type="audio/mpeg" />
+	</audio>
+</body></foreignObject></g><g id="e33_video_group" drawsvg:ctype="html-video" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e34_video_rect" x="613" y="1374" width="199" height="115" drawsvg:ctype="html-video"/><foreignObject id="e35_video_foreign" drawsvg:ctype="html-video" x="617" y="1378" width="191" height="107"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<video controls="true" style="margin:0px;padding:0px;" width="100%">
+	<source src="http://www.draw-svg.appspot.com/svgedit/samples/video/SampleVideo_1080x720_1mb.mp4" type="video/mp4" />
+	</video>
+</body></foreignObject></g><g id="e49_video_group" drawsvg:ctype="html-video" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e50_video_rect" x="1369" y="1163" width="564" height="286" drawsvg:ctype="html-video"/><foreignObject id="e51_video_foreign" drawsvg:ctype="html-video" x="1373" y="1167" width="556" height="278"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<video controls="true" style="margin:0px;padding:0px;" width="100%">
+	<source src="http://www.draw-svg.appspot.com/svgedit/samples/video/SampleVideo_1080x720_1mb.mp4" type="video/mp4" />
+	</video>
+</body></foreignObject></g><g id="e65_video_group" drawsvg:ctype="html-video" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e66_video_rect" x="1195" y="117" width="760" height="431" drawsvg:ctype="html-video"/><foreignObject id="e67_video_foreign" drawsvg:ctype="html-video" x="1199" y="121" width="752" height="423"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<video controls="true" style="margin:0px;padding:0px;" width="100%">
+	<source src="http://www.draw-svg.appspot.com/svgedit/samples/video/SampleVideo_1080x720_1mb.mp4" type="video/mp4" />
+	</video>
+</body></foreignObject></g><g id="e81_audio_group" drawsvg:ctype="html-audio" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e82_audio_rect" x="1529" y="35" width="308" height="36" drawsvg:ctype="html-audio"/><foreignObject id="e83_audio_foreign" drawsvg:ctype="html-audio" x="1533" y="39" width="300" height="28"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<audio width="100%" controls="true" style="margin:0px;padding:0px;">
+		<source src="http://www.draw-svg.appspot.com/svgedit/samples/audio/bubbles.mp3" type="audio/mpeg" />
+	</audio>
+</body></foreignObject></g><g id="e97_audio_group" drawsvg:ctype="html-audio" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e98_audio_rect" x="1273" y="900" width="308" height="36" drawsvg:ctype="html-audio"/><foreignObject id="e99_audio_foreign" drawsvg:ctype="html-audio" x="1277" y="904" width="300" height="28"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<audio width="100%" controls="true" style="margin:0px;padding:0px;">
+		<source src="http://www.draw-svg.appspot.com/svgedit/samples/audio/bubbles.mp3" type="audio/mpeg" />
+	</audio>
+</body></foreignObject></g><g id="e113_audio_group" drawsvg:ctype="html-audio" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e114_audio_rect" x="44" y="1091" width="308" height="36" drawsvg:ctype="html-audio"/><foreignObject id="e115_audio_foreign" drawsvg:ctype="html-audio" x="48" y="1095" width="300" height="28"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<audio width="100%" controls="true" style="margin:0px;padding:0px;">
+		<source src="http://www.draw-svg.appspot.com/svgedit/samples/audio/bubbles.mp3" type="audio/mpeg" />
+	</audio>
+</body></foreignObject></g><g id="e145_audio_group" drawsvg:ctype="html-audio" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e146_audio_rect" x="321" y="773" width="308" height="36" drawsvg:ctype="html-audio"/><foreignObject id="e147_audio_foreign" drawsvg:ctype="html-audio" x="325" y="777" width="300" height="28"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;">
+	<audio width="100%" controls="true" style="margin:0px;padding:0px;">
+		<source src="http://www.draw-svg.appspot.com/svgedit/samples/audio/bubbles.mp3" type="audio/mpeg" />
+	</audio>
+</body></foreignObject></g><g id="e198_richtext_group" drawsvg:ctype="html-richtext" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e199_richtext_rect" x="919" y="660" width="301" height="158" drawsvg:ctype="html-richtext"/><foreignObject id="e200_richtext_foreign" drawsvg:ctype="html-richtext" x="923" y="664" width="293" height="150"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;"><div align="center"><font face="Arial"><font size="5"><b>Archivos ".svg"</b></font></font><br /></div><span class="_Tgc">Gráficos <a href="https://www.amazon.com/Play-Visions-450-Nose-Aerobics/dp/B00CKJAL2G/ref=as_li_ss_tl?ie=UTF8&amp;dpID=31mDLgEs7JL&amp;dpSrc=sims&amp;preST=_SL500_SR135,135_&amp;refRID=69QJ3EYGTAMTQV263R92&amp;linkCode=sl1&amp;tag=worst-products-ever-20&amp;linkId=f6360033d2a7218e7dac4198c81d627a">Vectoriales</a> Redimensionables (del inglés Scalable Vector Graphics) o <b>SVG</b>
+ es un formato de <a href="https://www.amazon.com/Pup-Razzi-Starlet-Costume-X-Small/dp/B007O3T5UM/ref=as_li_ss_tl?ie=UTF8&amp;*Version*=1&amp;*entries*=0&amp;linkCode=sl1&amp;tag=worst-products-ever-20&amp;linkId=7a3926855e12bf8bfa0a1c54d95eda61">gráficos</a> vectoriales bidimensionales, tanto estáticos 
+como animados, en formato XML, cuya especificación es un <a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477/ref=as_li_ss_tl?ie=UTF8&amp;*Version*=1&amp;*entries*=0&amp;linkCode=sl1&amp;tag=worst-products-ever-20&amp;linkId=d6148e5e63820f864ff4057c05fc18e1">estándar</a> 
+abierto <a href="https://www.amazon.com/CTA-Digital-Pedestal-Stand-Holder/dp/B00AQT653G/ref=as_li_ss_tl?ie=UTF8&amp;ref_=tsm_1_tw_s_amzn_n15ov9&amp;linkCode=sl1&amp;tag=worst-products-ever-20&amp;linkId=d1351a04d98bbfce6960650425f4a94a">desarrollado</a> por el W3C desde el año 1999.</span></body></foreignObject></g><a id="e277_hyperlink" xlink:title="" xlink:href="https://www.amazon.com/Think-Geek-Canned-Unicorn-Meat/dp/B0089KZPNU/ref=as_li_ss_tl?ie=UTF8&amp;dpID=51Ok0UGbDOL&amp;dpSrc=sims&amp;preST=_AC_UL400_SR320,400_&amp;psc=1&amp;refRID=9CD99GPVRNAFD22QXWNS&amp;linkCode=sl1&amp;tag=worst-products-ever-20&amp;linkId=7a21a3f4dbbc9879447f87d0d9a024ee" target="_replace" transform="matrix(1, 0, 0, 1, -369, 850)"><g id="e216_richtext_group" drawsvg:ctype="html-richtext" stroke="black" style="stroke-width: 1px;" fill="khaki"><rect drawsvg:margin="4" style="fill: none;" stroke="black" stroke-width="1" id="e217_richtext_rect" x="580" y="1015" width="99" height="68" drawsvg:ctype="html-richtext"/><foreignObject id="e218_richtext_foreign" drawsvg:ctype="html-richtext" x="584" y="1019" width="91" height="60"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0px;padding:0px;"><div align="center"><b><font face="Verdana"><font size="5">título</font></font></b><br /></div>Texto.<br /></body></foreignObject></g></a><line id="e353_line" x1="711" y1="108" x2="656" y2="342" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;" stroke="black"/><line id="e380_line" x1="1021" y1="107" x2="1195" y2="117" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e406_line" x1="1527" y1="118" x2="1532" y2="70" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e435_line" x1="1194" y1="547" x2="1220" y2="661" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e449_line" x1="920" y1="819" x2="1273" y2="935" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e463_line" x1="917" y1="817" x2="1369" y2="1162" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e477_line" x1="1367" y1="1320" x2="809" y2="1489" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;" stroke="black"/><line id="e491_line" x1="352" y1="1090" x2="1370" y2="1163" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e507_line" x1="46" y1="1128" x2="612" y2="1374" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e521_line" x1="320" y1="810" x2="213" y2="1869" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e548_line" x1="657" y1="602" x2="628" y2="776" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/><line id="e562_line" x1="658" y1="601" x2="1196" y2="548" stroke="black" style="stroke-width: 2px; fill: none; stroke-dasharray: 8px, 2px;"/></svg>
